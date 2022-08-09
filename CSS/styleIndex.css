@@ -7,6 +7,7 @@
 
 body{
     background:  #292929;
+
 } 
 
 header{
@@ -62,3 +63,37 @@ nav ul li a::before{
 nav ul li a:hover::before{
     width: 100%;
 }
+
+.Noticias{
+    padding-top: 3%;
+    margin-top: 0;
+    width: auto;
+    height: 150px;
+    background-color:rgb(173, 29, 166);
+    
+}   
+.Tittle{
+    padding-bottom: 0%;
+    color:aliceblue;
+    font-size: 3.9rem;
+    text-align: center;
+}
+
+.Donaciones{
+    margin-top: 5%;
+    width: 550px;
+    height: auto;
+    margin-left: 5%; 
+    background:seagreen;
+
+}
+.Donaciones .title-donaciones{
+    color:antiquewhite;
+    text-align: center;
+    font-size: 3.0rem;
+}
+.Donaciones .img-donaciones{
+    position: absolute;
+}
+
+
