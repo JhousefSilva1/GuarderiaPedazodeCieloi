@@ -1,0 +1,16 @@
+body{
+    font-size: 62.5%;
+}
+
+.nosotros{
+    background-color:blueviolet;
+    width: 100%;
+    height: 100px;
+}
+
+.nosotros .title-nosotros{
+    font-size: 5.5rem;
+    color:aliceblue;
+    text-align: center;
+    padding-top: 1%;
+}
