@@ -14,3 +14,92 @@ body{
     text-align: center;
     padding-top: 1%;
 }
+
+
+.Mision{
+    display: inline-block;
+    background-color:darkcyan;
+    width: 25%;
+    height: 400px;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 3%;
+    float: left;
+}
+.Mision .title-mision{
+   
+    color:aliceblue;
+    text-align: center;
+    font-size: 3.0rem;
+}
+.Mision .par-mision{
+    color:aliceblue;
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+}
+.Mision .img-mision{
+    padding-top: 30px;
+    height: auto;
+    padding-bottom: 50px;
+    margin-right: 90px;
+}
+.Vision{
+    display: inline-block;
+    background-color:darkcyan;
+    width: 25%;
+    height: 400px;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 3%;
+    float: left;
+}
+.Vision .title-Vision{
+    color:aliceblue;
+    text-align: center;
+    font-size: 3.0rem;
+}
+.Vision .par-vision{
+    color:aliceblue;
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 4%;
+    padding-left: 4%;
+    padding-bottom: 4%;
+    padding-top: 40%;
+
+}
+.Vision .img-mision{
+    padding-top: 30px;
+    height: auto;
+    padding-bottom: 50px;
+    margin-right: 90px;
+}
+.QueHacemos{
+    display: inline-block;
+    background-color:darkcyan;
+    width: 25%;
+    height: 250px;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 3%;
+    float: left;
+}
+.QueHacemos .title-hacemos{
+    color:aliceblue;
+    text-align: center;
+    font-size: 3.0rem;
+}
+.QueHacemos .par-queHacemos{
+    color:aliceblue;
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+}
