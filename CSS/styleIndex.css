@@ -107,7 +107,6 @@ nav ul li a:hover::before{
 
 .Donaciones .par-donaciones{
     color:aliceblue;
-    
     font-size: 1.3rem;
     text-decoration: dashed;
     justify-content: right;
@@ -138,11 +137,21 @@ nav ul li a:hover::before{
 .VOLUNTARIADOS .img-voluntariados{
     
     padding-top: 30px;
-    width: 50%;
+    width: 51%;
     height: auto;
     padding-bottom: 50px;
     margin-right: 90px;
 
+}
+
+.VOLUNTARIADOS .par-voluntariados{
+    color:aliceblue;
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 4%;
+    padding-left: 4%;
+    padding-bottom: 4%;
 }
 
 .COMVIVENCIAS{
@@ -163,8 +172,18 @@ nav ul li a:hover::before{
 }
 .COMVIVENCIAS .img-convivencias{
     padding-top: 30px;
-    width: 50%;
+    width: 60%;
     height: auto;
     padding-bottom: 50px;
     margin-right: 90px;
+}
+.COMVIVENCIAS .par-convivencias{
+    color:aliceblue;
+    font-size: 1.3rem;
+    text-decoration: dashed;
+    justify-content: right;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+
 }
